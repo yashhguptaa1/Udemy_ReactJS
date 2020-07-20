@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Only_React/learnreact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/React_Redux/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/React_Redux/sec_17" vcs="Git" />
+  </component>
+</project>
